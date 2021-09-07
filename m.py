@@ -1,5 +1,7 @@
 print("Another hello world")
 
 i = 2
+j = 3
+ij = i + j
 
-print("integer i is: " + i)
+print("i + j is: " + ij)
