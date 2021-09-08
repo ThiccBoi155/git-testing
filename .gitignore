@@ -6,3 +6,6 @@
 
 # Any newly added .py files will be ignored
 *.py
+
+# Folder -- it ignores upper/lowercase letters
+uSelEss FoldeR
