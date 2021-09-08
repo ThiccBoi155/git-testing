@@ -5,3 +5,5 @@ j = 3
 
 #print("i + j is:", i + j, "okay")
 print(f"i + j is: {i + j}. Okay?")
+
+print("Hidden text")

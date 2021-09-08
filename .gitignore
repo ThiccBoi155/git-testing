@@ -1,2 +1,8 @@
+
+# Ignore
 *.css
 *.js
+*y name i*
+
+# Any newly added .py files will be ignored
+*.py
